@@ -1,6 +1,6 @@
 # Machine Learning Homework - Exoplanet Exploration
 
-![exoplanets.jpg](Images/exoplanets.jpg)
+![exoplanets](https://user-images.githubusercontent.com/64673015/98309669-a5106980-1f90-11eb-98df-27a453a42ea0.jpg)
 
 ## Background
 
