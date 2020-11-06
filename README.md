@@ -10,7 +10,7 @@ To help process this data, you will create machine learning models capable of cl
 
 In this homework assignment, you will need to:
 
-1. [Preprocess the raw data](#Preprocessing)
+1. [Preprocess the raw data]
 2. [Tune the models](#Tune-Model-Parameters)
 3. [Compare two or more models](#Evaluate-Model-Performance)
 
